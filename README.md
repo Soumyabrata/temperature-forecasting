@@ -1,4 +1,4 @@
-## Predicting Ground-Based Air Temperature
+## Day-ahead Forecasts of Air Temperature
 
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript:
 
