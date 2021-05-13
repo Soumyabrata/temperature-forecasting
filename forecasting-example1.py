@@ -76,7 +76,7 @@ def transform_df_timeplotseries_Holt(some_df):
 # ===========================================================================================
 # ## Forecasting values 
 
-start_index = 70
+start_index = 146
 train = df[start_index:start_index+2000]
 test= df[start_index+2000:start_index+2000+50]
 
@@ -110,7 +110,7 @@ plt.grid(True)
 plt.xlabel('Date (YY-MM)', fontsize=14)
 plt.ylabel('Temperature (in K)', fontsize=14)
 fig.tight_layout()
-save_name = './results/prediction-index70.PDF' 
+save_name = './results/prediction-index146.PDF' 
 fig.savefig(save_name)
 plt.show()
 
