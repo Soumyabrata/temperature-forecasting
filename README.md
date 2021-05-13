@@ -10,7 +10,7 @@ Climate change is a phenomenon that can affect many departments including health
 
 
 ### Code
-All codes are writeen in `python3`.
+All codes are written in `python3`.
 + `forecasting-example1.py`: Computes the forecasting performance and plots the result for sample example 1.
 + `forecasting-example2.py`: Computes the forecasting performance and plots the result for sample example 2.
 + `benchmarking.py`: Computes the performance of our proposed method, along with other benchmarking methods. 
