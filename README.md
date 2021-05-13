@@ -18,8 +18,8 @@ All codes are written in `python3`.
 
 ### Results
 The results are stored in the folder `./results/`.
-+ `prediction-index20.PDF`: Plot of forecasting example 1.
-+ `prediction-index70.PDF`: Plot of forecasting example 2.
++ `prediction-index146.PDF`: Plot of forecasting example 1.
++ `prediction-index20.PDF`: Plot of forecasting example 2.
 + `comparison.txt`: Text file that details the performance of the various benchmarking methods.
 
 
