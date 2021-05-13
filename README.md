@@ -2,7 +2,7 @@
 
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript:
 
-> H. Wang, M. S. Pathan, Y. H. Lee, and S. Dev, Predicting Ground-Based Air Temperature, *under review*.
+> H. Wang, M. S. Pathan, Y. H. Lee, and S. Dev, Day-ahead Forecasts of Air Temperature, *under review*.
 
 
 ### Executive summary
